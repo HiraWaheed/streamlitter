@@ -1,8 +1,8 @@
 import streamlit as st
 import time
 
-st.markdown("# Borrow Page 3 ")
-st.sidebar.markdown("# Borrow Page 3 ")
+st.markdown("# Borrow Page")
+st.sidebar.markdown("# Borrow Page")
 
 # Non-fragment part: Simulate a long loading or tracking counter
 if "counter" not in st.session_state:
